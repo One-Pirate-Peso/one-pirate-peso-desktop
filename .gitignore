@@ -1,0 +1,27 @@
+# CMake build directory
+cmake-build-*/
+
+# JetBrains IDEs
+.idea/
+*.iml
+
+# Binaries
+*.exe
+*.out
+*.app
+*.dll
+*.so
+*.dylib
+
+# Object files
+*.o
+*.obj
+*.a
+*.lib
+
+# Logs
+*.log
+
+# Cache
+*.DS_Store
+*.vscode/
